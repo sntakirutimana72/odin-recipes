@@ -1,6 +1,6 @@
 # odin-recipes
 
-> A website that showcases different recipes. It consists of a main index page which will have links to a few recipes.
+> A website that showcases different recipes. It consists of a main index page which has links to a few recipes.
 
 
 ## Built With
@@ -13,9 +13,9 @@
 
 At the end of this project, I should be able to
 
-- Understand the importance of version control (`git`) and how to use `git` command line tool.
-- Utilize `GitHub` with version control (`git`) to persist my work.
-- Understand some foundation of builing web apps using `html` & `css`.
+- understand the importance of version control (`git`) and how to use the `git` command line tool.
+- utilize `GitHub` with version control (`git`) to persist my work.
+- understand some foundations of building webpages using `HTML` & `CSS`.
 
 
 ## Authors
@@ -38,7 +38,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - The `Odin Project`
-- `Hat tip` to anyone whose code was used
 
 ## 📝 License
 
