@@ -1,0 +1,33 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 24px;
+}
+
+body {
+  padding: 10px;
+  background-color: #f5f6fa;
+}
+
+main {
+  max-width: 700px;
+  margin: auto;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 32px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
